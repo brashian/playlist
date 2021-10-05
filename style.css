@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+.top{
+    background-image: url(img/BlackBack.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:scroll;
+    height: 720px;
+    position: relative;
+    box-shadow: 5px 5px 7px 1px #161615;
+}
+
+.top-texto h1 {
+    position: absolute;
+    color: honeydew;
+    bottom: 150px;
+    left: 150px;
+    font-size: 70px;
+    text-shadow: 3px 1px 2px rgb(112, 185, 151);
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(31, 27, 27);
+}
+
+.box {
+    background-color: rgb(255, 255, 255);
+
+    margin: 0 2cm 0 2cm;
+    padding: 10px;
+}
+
+.weeknd {
+    background-color: grey;
+    padding:10px;
+    border-bottom: 20px;
+    border-color: hotpink;
+}
+
+.weeknd img {
+    width: 50px;
+    height: 50px;
+    position:absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(66,83,41,1) 0%, rgba(87,126,43,1) 14%, rgba(89,122,53,1) 21%, rgba(112,187,54,1) 50%, rgba(70,110,51,1) 80%, rgba(36,85,37,1) 93%, rgba(50,77,45,1) 100%);
+    width: auto;
+    height: 80px;
+    margin: 0;
+    padding: 0;
+
+}
