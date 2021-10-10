@@ -18,8 +18,9 @@
     color: honeydew;
     bottom: 150px;
     left: 150px;
+    font-family: 'Bebas Neue', cursive;
     font-size: 70px;
-    text-shadow: 3px 1px 2px rgb(112, 185, 151);
+    text-shadow: 3px 1px 2px rgb(112, 53, 53);
 }
 
 body {
@@ -27,27 +28,40 @@ body {
     margin: 0;
     background-color: rgb(31, 27, 27);
 }
-
+.head{
+    margin:0 13cm;
+    background-color: rgb(37, 35, 35);
+}
+.head h2 {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(232, 233, 232);
+}
 .box {
-    background-color: rgb(255, 255, 255);
-
-    margin: 0 2cm 0 2cm;
-    padding: 10px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    display:table-cell;
+    padding: 10px 50px;
+    height: 50px;
+    width: 200px;
 }
-
-.weeknd {
-    background-color: grey;
-    padding:10px;
-    border-bottom: 20px;
-    border-color: hotpink;
+.box p {
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    color: honeydew;
 }
-
-.weeknd img {
+.img-aling {
+    padding: 5px 0;
+    float:left;
     width: 50px;
     height: 50px;
-    position:absolute;
 }
-
+.container{
+    margin: 0 13cm;
+    background-color: rgb(37, 35, 35);
+}
 
 
 
@@ -80,10 +94,10 @@ body {
 
 
 footer{
-    background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(66,83,41,1) 0%, rgba(87,126,43,1) 14%, rgba(89,122,53,1) 21%, rgba(112,187,54,1) 50%, rgba(70,110,51,1) 80%, rgba(36,85,37,1) 93%, rgba(50,77,45,1) 100%);
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(36,36,36,1) 22%, rgba(77,77,77,1) 48%, rgba(61,61,61,1) 80%, rgba(0,0,0,1) 100%);
     width: auto;
-    height: 80px;
+    height: auto;
     margin: 0;
     padding: 0;
 
