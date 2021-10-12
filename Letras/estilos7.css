@@ -64,10 +64,6 @@ footer{
     height: 80px;
     margin: 0;
     padding: 15px;
-    font-size: 15px;
-    font-family: 'Bebas Neue', cursive;
-    text-align: right;
-    color: honeydew;
 }
 
 
@@ -89,9 +85,17 @@ a:hover {
     bottom: 25px;
 }
 
+footer p {
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: right;
+    color: honeydew;
+}
+
 .school {
     float: left;
     width: 70px;
     height: 70px;
 }
+
 
