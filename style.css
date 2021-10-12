@@ -84,9 +84,8 @@ a {
 }
 
 a:hover {
-    background-color: rgb(85, 82, 82);
+    background-color: rgba(185, 184, 184, 0.26);
 }
-
 .logo {
     float: left;
     width: 70px;

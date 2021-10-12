@@ -16,6 +16,7 @@
     left: 265px;
     font-family: 'Bebas Neue', cursive;
     font-size: 70px;
+    text-shadow: 3px 1px 2px rgb(17, 40, 83);
 }
 
 .top-texto h2 {
@@ -93,7 +94,7 @@ a:hover {
 footer p {
     font-size: 20px;
     font-family: 'Bebas Neue', cursive;
-    text-align: right;
+    text-align: left;
     color: honeydew;
 }
 
